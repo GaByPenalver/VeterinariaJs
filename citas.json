@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Cayser",
+    "edad": 5,
+    "tipo": "Perro",
+    "color": "Marrón",
+    "enfermedad": "Vómito"
+  },
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Issy",
+    "edad": "3 años",
+    "tipo": "gata",
+    "color": "blanca",
+    "enfermedad": "gripe"
+  },
+  {
+    "nombre": "Lony",
+    "edad": "4 años",
+    "tipo": "loro",
+    "color": "verde",
+    "enfermedad": "alergia"
+  }
+]
